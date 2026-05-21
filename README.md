@@ -7,9 +7,13 @@ This is my submission for the DatAds challenge. The project consists of a distri
 ## Project Structure
 
 ├── part_1/          # System design diagram and architecture decisions
+
 ├── part_2/          # Data extraction workers and storage logic
+
 ├── part_3/          # Query API Layer (Express)
+
 ├── package.json     # Single workspace package.json
+
 └── tsconfig.json
 
 
