@@ -1,6 +1,6 @@
 import { BaseExtractor } from './base.extractor';
 import { AdRepository } from '../repositories';
-import { fetchWithRetry, computeMetrics } from '../utils';
+import { fetchWithRetry } from '../utils';
 import { AdRecord } from '../entities';
 import { TiktokResponse } from '../dtos';
 
